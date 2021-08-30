@@ -1,0 +1,11 @@
+h3 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.lembrete p{
+    text-align: center;
+    background: radial-gradient(white, #CDB7B5);
+}

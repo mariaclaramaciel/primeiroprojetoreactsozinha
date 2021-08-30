@@ -1,0 +1,29 @@
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+    margin-top: 10rem;
+    text-align: center;
+    
+}
+
+.titulo {
+    font-size: 4rem;
+    margin-top: 10rem;
+    margin-bottom: 3rem;
+    color: gray;
+    text-shadow: 5px 5px 4px #CDB7B5;
+}
+
+.frase {
+    margin-top: 1.4rem;
+    margin-bottom: 10rem;
+    color: #CDB7B5;
+    font-size: 1.9rem;
+}
+
+p {
+    font-size: 1.9rem;
+   
+    
+}
+

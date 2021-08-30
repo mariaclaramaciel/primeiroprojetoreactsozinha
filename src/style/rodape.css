@@ -1,0 +1,42 @@
+.rodape-redes {
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    
+}
+
+.redes-sociais {
+    height: 140px;
+    margin-left: 10px;
+    margin-top: 71px;
+    margin-bottom: 120px;
+    width: 155px;
+    padding: 1px;
+  
+}
+
+.redes-sociais img {
+    height: 80px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+}
+
+.redes-sociais h3 {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 1.8rem;
+    margin-bottom: 8px;
+}
+
+.redes-sociais p {
+    text-align: center;
+    background: radial-gradient(white, #CDB7B5);
+    border-radius: 25px; 
+}
+
+.redes-sociais a {
+    color: black;
+    text-decoration: none;
+}
