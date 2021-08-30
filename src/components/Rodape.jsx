@@ -11,7 +11,7 @@ function Rodape() {
                     <img src={redes.icone} alt={redes.rede}/>
                     <h3>{redes.rede}</h3>
                     <p>
-                    <a href={redes.link} target="_blank">{redes.ig}</a>
+                    <a href={redes.link} target="_blank" rel="noreferrer">{redes.ig}</a>
                     </p>
 
                     </div>
